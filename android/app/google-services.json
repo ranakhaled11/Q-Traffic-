@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "194017144609",
+    "project_id": "smart-traffic-ca3be",
+    "storage_bucket": "smart-traffic-ca3be.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194017144609:android:54b49dfef484414f765860",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWf1p1ZX_E5CuLUGayLxCzM1bhIbY8WpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
